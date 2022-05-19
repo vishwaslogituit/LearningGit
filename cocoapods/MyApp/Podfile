@@ -1,0 +1,4 @@
+target 'MyApp' do
+    use_frameworks!
+    pod 'MyFramework', '0.1.0', :source => "/Users/vivekkasthuri/Desktop/workspace/cocoapods/MySpecs.git "
+end
